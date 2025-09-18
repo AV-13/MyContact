@@ -1,0 +1,4 @@
+augustinvathonne_db_user
+
+zRUUDs133f0iGtLc
+mongodb+srv://augustinvathonne_db_user:zRUUDs133f0iGtLc@clustermycontact.jptg6n0.mongodb.net/?retryWrites=true&w=majority&appName=ClusterMyContact
